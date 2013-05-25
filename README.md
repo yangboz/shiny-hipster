@@ -1,3 +1,14 @@
+shiny-hipster
+=============
+
+Open source phone gap build project.
+
+
+PhoneGap Build
+=============
+
+https://build.phonegap.com/apps/400309/builds
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
